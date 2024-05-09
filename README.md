@@ -17,8 +17,40 @@ I'm Harshad Vaghasiya, a passionate backend Python developer with 2.5 years of e
 
 Here are some projects I've been working on:
 
-- [Project 1](https://github.com/username/project1): Brief description of the project.
-- [Project 2](https://github.com/username/project2): Brief description of the project.
+- [Flask Best Practice Project Structure](https://github.com/harshad8210/BlogApp-FlaskRestX)
+  - **Framework & Technologies :**
+    - FlaskRestX
+    - flask_marshmallow
+    - Postgresql
+    - In build swagger for API collection
+
+- [Pinterest Clone FLask Application](https://github.com/harshad8210/Pinterest-Clone): With complete deployment guide on AWS Elastic Beanstalk 
+  - **Framework & Technologies :**
+    - Flask
+    - HTML, JS, CSS, Jquery
+    - Jinja Template
+    - Postgresql
+
+- [Flask Rest API + Selenium](https://github.com/harshad8210/BlogApp-FlaskRestX)
+  - **Framework & Technologies :**
+    - FlaskRestX
+    - Selenium
+    - Postgresql
+    - Locust for load testing
+    - In build swagger for API collection
+
+- [LinkTree Clone - DRF](https://github.com/harshad8210/LinkTree-DRF): With Social Authentication
+  - **Framework & Technologies :**
+    - DRF
+    - Postgresql
+
+- [JioSavan Clone - React](https://github.com/harshad8210/JioSavan-Clone):
+  - **Framework & Technologies :**
+    - ReactJS
+    - JavaScript
+    - HTML
+    - Tailwind CSS
+
 
 ## 💬 Let's Connect!
 
