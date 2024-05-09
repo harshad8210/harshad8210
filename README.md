@@ -11,7 +11,9 @@ I'm Harshad Vaghasiya, a passionate backend Python developer with 2.5 years of e
 - **ORM & Migration**: SQLAlchemy, Alembic
 - **AWS Services & DevOps**: Lambda, API Gateway, Cloud Watch, Dynamodb, S3, EC2, Elastic Beanstalk, Docker
 - **Web Development**: ReactJS, JavaScript, JQuery, AJAX, HTML, CSS, Bootstrap, Tailwind
+- **Testing**: unittest, pytest
 - **Version Control**: Git
+- **OS**: Ubuntu, Windows and MacOS
 
 ## 🚀 Projects
 
@@ -21,28 +23,29 @@ Here are some projects I've worked on:
   - **Framework & Technologies :**
     - FlaskRestX
     - flask_marshmallow
-    - Postgresql
+    - PostgreSQL
     - Built-in swagger for API collection
 
-- [Pinterest Clone FLask Application](https://github.com/harshad8210/Pinterest-Clone): With complete deployment guide on AWS Elastic Beanstalk 
+- [Pinterest Clone Flask Application](https://github.com/harshad8210/Pinterest-Clone): With complete deployment guide on AWS Elastic Beanstalk 
   - **Framework & Technologies :**
     - Flask
     - HTML, JS, CSS, Jquery
+    - Bootstrap
     - Jinja Template
-    - Postgresql
+    - PostgreSQL
 
 - [Flask Rest API + Selenium](https://github.com/harshad8210/BlogApp-FlaskRestX)
   - **Framework & Technologies :**
     - FlaskRestX
     - Selenium
-    - Postgresql
+    - PostgreSQL
     - Locust for load testing
     - Built-in swagger for API collection
 
 - [LinkTree Clone - DRF](https://github.com/harshad8210/LinkTree-DRF): With Social Authentication
   - **Framework & Technologies :**
     - DRF
-    - Postgresql
+    - PostgreSQL
 
 - [JioSavan Clone - React](https://github.com/harshad8210/JioSavan-Clone):
   - **Framework & Technologies :**
